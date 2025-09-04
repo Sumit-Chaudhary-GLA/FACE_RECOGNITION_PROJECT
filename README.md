@@ -125,7 +125,7 @@ python main.py
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email:** [sankalpagarwal8057@gmail.com](mailto:chaudharysumit73137@gmail.com)  
+- **Email:** [chaudharysumit73137@gmail.com]  
 
 ---
 
